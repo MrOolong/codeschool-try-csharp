@@ -1,0 +1,7 @@
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\bin\Debug\bands.exe.config
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\bin\Debug\bands.exe
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\bin\Debug\bands.pdb
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\obj\Debug\bands.csprojResolveAssemblyReference.cache
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\obj\Debug\bands.csproj.CoreCompileInputs.cache
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\obj\Debug\bands.exe
+C:\Users\dennis\Desktop\codeschool\try-c-sharp\bands\bands\obj\Debug\bands.pdb
